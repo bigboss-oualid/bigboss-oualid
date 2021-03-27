@@ -10,6 +10,7 @@ I am a PHP/Symfony developer from Germany, focusing on Fullstack web application
 - 💬 Ask me about Anything 
 - 📫 How to reach me: [https://boulatar.com](https://boulatar.com/#contact) 
 - 😄 Pronouns: He/Him 
+- ⚡ Fun fact: ... 
 
 ## Skills and Experiences
 SYMFONY / REACT / JS / JQUERY / HTML / CSS / BOOTSRAP / PHPUNIT / BEHAT / WORDPRESS / RestAPI / UML / Gantter / SQL & NOSQL
@@ -21,15 +22,6 @@ SYMFONY / REACT / JS / JQUERY / HTML / CSS / BOOTSRAP / PHPUNIT / BEHAT / WORDPR
 [Portfolio](https://boulatar.com/#portfolio)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss-oualid&layout=compact&hide=html)](https://github.com/bigboss-oualid/github-readme-stats)
-
-- 🔭 I’m currently working on E-Commerce Application and to improve myself every day 
-- 🌱 I’m currently learning Vue.js 
-- 👯 I’m looking to collaborate on Symfony 
-- 🤔 I’m looking for help with  video editing  
-- 💬 Ask me about Anything 
-- 📫 How to reach me: [https://boulatar.com](https://boulatar.com/#contact) 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: ... 
 
 <div style="text-align:center">
   <a href="https://github.com/bigboss-oualid/github-readme-stats">
