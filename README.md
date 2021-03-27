@@ -15,25 +15,26 @@ I am a PHP/Symfony developer from Germany, focusing on Fullstack web application
 ## Skills and Experiences
 SYMFONY / REACT / JS / JQUERY / HTML / CSS / BOOTSRAP / PHPUNIT / BEHAT / WORDPRESS / RestAPI / UML / Gantter / SQL & NOSQL
 
-## Examples of work
+## Examples of work: <a target="_blank" href="https://boulatar.com/#portfolio">Portfolio</a>
 
 <img src="https://github.com/bigboss-oualid/bigboss-oualid/blob/main/work-example.gif">
 
-[Portfolio](https://boulatar.com/#portfolio)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss-oualid&layout=compact&hide=html)](https://github.com/bigboss-oualid/github-readme-stats)
-
-<div style="text-align:center">
-  <a href="https://github.com/bigboss-oualid/github-readme-stats">
+<div align="center">
+  <a align="center" href="https://github.com/bigboss-oualid/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigboss-oualid&&show_icons=true&&theme=radical">
+  </a>
+  
+  <a href="https://github.com/bigboss-oualid/github-readme-stats">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss-oualid&layout=compact&hide=html">
   </a>
 </div>
 
-<div align="right">
-  <a href="https://github.com/bigboss-oualid"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-  <a href="https://twitter.com/BigBoss94047477"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
-  <a href="https:///it-bigboss.de"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+<div align="center">
+  <a target="_blank" href="https://github.com/bigboss-oualid"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+  <a target="_blank" href="https://twitter.com/BigBoss94047477"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+  <a target="_blank" href="https:///it-bigboss.de"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
 </div>
+
 <!--
 **bigboss-oualid/bigboss-oualid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ** center state
