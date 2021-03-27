@@ -15,7 +15,8 @@ I am a PHP/Symfony developer from Germany, focusing on Fullstack web application
 SYMFONY / REACT / JS / JQUERY / HTML / CSS / BOOTSRAP / PHPUNIT / BEHAT / WORDPRESS / RestAPI / UML / Gantter / SQL & NOSQL
 
 ## Examples of work
-<img src="(https://github.com/bigboss-oualid/bigboss-oualid/blob/main/work-example.gif">
+
+<img src="https://github.com/bigboss-oualid/bigboss-oualid/blob/main/work-example.gif">
 
 [Portfolio](https://boulatar.com/#portfolio)
 
@@ -32,11 +33,11 @@ SYMFONY / REACT / JS / JQUERY / HTML / CSS / BOOTSRAP / PHPUNIT / BEHAT / WORDPR
 
 <div style="text-align:center">
   <a href="https://github.com/bigboss-oualid/github-readme-stats">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=bigboss-oualid&&show_icons=true&&theme=radical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigboss-oualid&&show_icons=true&&theme=radical">
   </a>
 </div>
 
-<div style="text-align:center">
+<div align="right">
   <a href="https://github.com/bigboss-oualid"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
   <a href="https://twitter.com/BigBoss94047477"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
   <a href="https:///it-bigboss.de"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
