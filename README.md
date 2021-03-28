@@ -1,4 +1,4 @@
-![App Development](https://github.com/bigboss-oualid/bigboss-oualid/blob/main/navpicture.jpg)
+![App Development](https://github.com/bigboss-oualid/bigboss-oualid/blob/main/banner.png)
 
 # Hi there 👋, I'm Oualid
 I am a PHP/Symfony developer from Germany, focusing on Fullstack web applications. I have a wealth of experience working with clients from different nationalities. I offer my services as a PHP/Symfony developer to work with businesses of all sizes including start-ups, creative agencies, designers, individuals, and other freelancers & developers.
@@ -21,14 +21,14 @@ SYMFONY / REACT / JS / JQUERY / HTML / CSS / BOOTSRAP / PHPUNIT / BEHAT / WORDPR
 
 <div align="center">
   <a align="center" href="https://github.com/bigboss-oualid/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigboss-oualid&&show_icons=true&&theme=radical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigboss-oualid&&show_icons=true&&theme=radical&&hide=stars,contribs">
   </a>
   
   <a href="https://github.com/bigboss-oualid/github-readme-stats">
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss-oualid&layout=compact&hide=html">
   </a>
 </div>
-
+<br/><br/>
 <div align="center">
   <a target="_blank" href="https://github.com/bigboss-oualid"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
   <a target="_blank" href="https://twitter.com/BigBoss94047477"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
