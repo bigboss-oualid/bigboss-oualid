@@ -1,4 +1,4 @@
-![App Development](https://github.com/bigboss-oualid/bigboss-oualid/blob/main/banner.png)
+![App Development](https://github.com/bigboss-oualid/bigboss-oualid/blob/main/img/banner.png)
 
 # Hi there 👋, I'm Oualid
 I am a PHP/Symfony developer from Germany, focusing on Fullstack web applications. I have a wealth of experience working with clients from different nationalities. I offer my services as a PHP/Symfony developer to work with businesses of all sizes including start-ups, creative agencies, designers, individuals, and other freelancers & developers.
@@ -17,7 +17,7 @@ SYMFONY / REACT / JS / JQUERY / HTML / CSS / BOOTSRAP / PHPUNIT / BEHAT / WORDPR
 
 ## Examples of work: <a target="_blank" href="https://boulatar.com/#portfolio">Portfolio</a>
 
-<img src="https://github.com/bigboss-oualid/bigboss-oualid/blob/main/work-example.gif">
+<img src="https://github.com/bigboss-oualid/bigboss-oualid/blob/main/img/work-example.gif">
 
 <div align="center">
   <a align="center" href="https://github.com/bigboss-oualid/github-readme-stats">
