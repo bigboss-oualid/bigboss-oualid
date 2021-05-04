@@ -4,7 +4,7 @@
 I am a PHP/Symfony developer from Germany, focusing on Fullstack web applications. I have a wealth of experience working with clients from different nationalities. I offer my services as a PHP/Symfony developer to work with businesses of all sizes including start-ups, creative agencies, designers, individuals, and other freelancers & developers.
 
 - 🔭 I’m currently working on E-Commerce Application and to improve myself every day 
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on Symfony 
 - 🤔 I’m looking for help with  video editing  
 - 💬 Ask me about Anything 
